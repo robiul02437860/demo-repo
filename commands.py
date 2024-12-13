@@ -6,3 +6,4 @@
 # git add .
 # git status
 # git commit -m "Added index" -m "Some description of inex file"
+# git push origin main
