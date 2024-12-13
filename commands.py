@@ -8,3 +8,4 @@
 # git commit -m "Added index" -m "Some description of inex file"
 # git push origin main
 # git remote add origin https://github.com/robiul02437860/demo-repo2.git [for creating remote connection]
+# git remote -v [check remote connections]
