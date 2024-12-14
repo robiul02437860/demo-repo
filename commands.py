@@ -14,5 +14,11 @@
 # git checkout [for switching branches]
 # git checkout -b new_branch [for creating new branch]
 # git diff another_branch [see difference between current and another branch]\
-# git push -u origin feature-test 
+# git push -u origin feature-test
+# git pull origin main [after pull request and merging manually in github]
+# git branch -d feature-test [delete this branch]
 # git merge another_branch
+# git reset file_name [undoing in git without commiting]
+# git reset HEAD~1 [undo last commit]
+
+
