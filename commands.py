@@ -13,3 +13,6 @@
 # git push -u origin master [main will not work because locally it in master branch but github has renamed master branch to main branch]
 # git checkout [for switching branches]
 # git checkout -b new_branch [for creating new branch]
+# git diff another_branch [see difference between current and another branch]\
+# git push -u origin feature-test 
+# git merge another_branch
