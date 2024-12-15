@@ -20,5 +20,6 @@
 # git merge another_branch
 # git reset file_name [undoing in git without commiting]
 # git reset HEAD~1 [undo last commit]
+https://www.youtube.com/watch?v=CRlGDDprdOQ [for  git merge vs rebase]
 
 
